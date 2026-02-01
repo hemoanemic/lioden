@@ -1,3 +1,5 @@
-1 {color: red;}
-div div {display:flex;
+#fraProfileContent{
+h1 {color: red;}
+div (has:div) {display:flex;
         justify-content: space-evenly;}
+}
