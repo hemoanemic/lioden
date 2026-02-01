@@ -2,10 +2,8 @@
   h1 {color: red;
       width: 100%;
      flex:1;}
-div (has:h1) {
-  display:flex; justify-content: space-evenly;
-  }
+div {
+  display:flex; justify-content: space-evenly;}
 div div {
-  padding: 10px;
-}
+  padding: 10px;}
 }
