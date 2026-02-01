@@ -1,2 +1,2 @@
-#fraProfileContent{
-h1 {color: red;}}
+#fraProfileContent h1 {color: red;}
+#fraProfileContent div {display:flex; justify-content: space-evenly;}
