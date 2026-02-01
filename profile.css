@@ -1,2 +1,11 @@
-#fraProfileContent h1 {color: red;}
-#fraProfileContent div {display:flex; justify-content: space-evenly;}
+#fraProfileContent { 
+  h1 {color: red;
+      width: 100%;
+     flex:1;}
+div (has:div) {
+  display:flex; justify-content: space-evenly;
+  }
+div div {
+  padding: 10px;
+}
+}
