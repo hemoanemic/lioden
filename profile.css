@@ -4,6 +4,7 @@
   border: black dashed 2px;
   margin: 20px;
   align-items: center;
+  display: grid;
   h1 {color: black;
       width: 100%;
      text-align:center;
