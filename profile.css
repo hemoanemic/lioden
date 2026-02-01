@@ -2,7 +2,7 @@
   h1 {color: red;
       width: 100%;
      flex:1;}
-div {
+.prayerforlovingsorrow {
   display:flex; justify-content: space-evenly;}
 div div {
   padding: 10px;}
